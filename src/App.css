@@ -26,6 +26,7 @@ img.image {
   border-radius: 50px;
   margin-right: 10px;
   margin-left: 5px;
+  border: 1px solid black;
 }
 span {
  

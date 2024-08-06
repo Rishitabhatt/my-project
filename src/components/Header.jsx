@@ -10,7 +10,7 @@ function Header() {
     <div className="header">
         <div className="main">
             <div className="logo">
-                <img src='https://t3.ftcdn.net/jpg/03/47/94/96/360_F_347949696_pVuArOGNDWsZsbs4hrgSDtMmrPVopaQU.jpg'className='image'/>
+                <img src="https://cdn.vectorstock.com/i/500p/63/85/set-of-coffee-symbols-icons-and-signs-vector-1306385.jpg"className='image'/>
                 <h3>Aroma</h3>
             </div>
             <div className="menu">
